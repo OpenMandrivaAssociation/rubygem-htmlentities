@@ -1,7 +1,7 @@
 %define oname htmlentities
 
 Name:       rubygem-%{oname}
-Version:    4.2.1
+Version:    4.2.2
 Release:    %mkrel 1
 Summary:    A module for encoding and decoding (X)HTML entities
 Group:      Development/Ruby
