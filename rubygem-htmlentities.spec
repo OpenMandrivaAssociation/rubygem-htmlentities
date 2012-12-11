@@ -42,3 +42,15 @@ rm -rf %buildroot
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/COPYING.txt
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Dec 19 2010 Rémy Clouard <shikamaru@mandriva.org> 4.2.2-2mdv2011.0
++ Revision: 623063
+- fix file list
+- bump release
+
+* Sat Oct 09 2010 Rémy Clouard <shikamaru@mandriva.org> 4.2.1-1mdv2011.0
++ Revision: 584333
+- import rubygem-htmlentities
+
