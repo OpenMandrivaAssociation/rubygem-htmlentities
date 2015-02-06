@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    4.2.2
-Release:    %mkrel 2
+Release:    3
 Summary:    A module for encoding and decoding (X)HTML entities
 Group:      Development/Ruby
 License:    MIT
